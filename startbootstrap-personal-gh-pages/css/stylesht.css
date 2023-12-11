@@ -1,0 +1,18 @@
+body {
+   font-family: Arial, Helvetica, sans-serif;
+}
+.s1 {
+    font-family: Arial, Helvetica, sans-serif
+}
+.s2 {
+    color: brown;
+    font-weight: bold;
+}
+.s3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: grey;
+}
+.s4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
